@@ -1,4 +1,3 @@
-"""Wspólne fixtures dla testów Osoby B — mały, szybki surrogate MLP."""
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
